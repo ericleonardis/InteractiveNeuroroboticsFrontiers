@@ -27,7 +27,7 @@ This is the results from the tracking data measuring inter-agent distance.
 
 This is the results from the mean amplitude and standard error of power spectral densities for each brain region (olfactory bulb MOB, hippocampus CA1/CA2 and amygdala meA) and each frequency band (respiratory, theta $\theta$, and beta $\beta$ ).
 
-|  Condition  |  Behavior   | Brain Region   |Frequency Band | Mean Amplitude |Duration Count |
+|  Condition  |  Behavior   | Brain Region   |Frequency Band | Mean Amplitude |SEM |
 | :---        | :----:      |    :----:      |     :----:    |    :----:     |         ---:  |
 |     Rat     | Grooming    | MOB | 	Respiratory  | Here's this   | Here's this   |
 |     Rat     | Rearing     | MOB           | Respiratory     | And more      | And more      |
@@ -57,7 +57,7 @@ This is the results from the mean amplitude and standard error of power spectral
 |   Object    | Rearing     | MOB            | $\beta$      | And more      | And more      |
 |   Object    | Immobility  | MOB            | $\beta$   | Here's this   | Here's this   |
 
-|  Condition  |  Behavior   | Brain Region   |Frequency Band | Mean Amplitude |Duration Count |
+|  Condition  |  Behavior   | Brain Region   |Frequency Band | Mean Amplitude | SEM |
 | :---        | :----:      |    :----:      |     :----:    |    :----:     |         ---:  |
 |     Rat     | Grooming    | CA1/CA2 | 	Respiratory  | Here's this   | Here's this   |
 |     Rat     | Rearing     | CA1/CA2           | Respiratory     | And more      | And more      |
@@ -87,7 +87,7 @@ This is the results from the mean amplitude and standard error of power spectral
 |   Object    | Rearing     | CA1/CA2            | $\beta$      | And more      | And more      |
 |   Object    | Immobility  | CA1/CA2            | $\beta$   | Here's this   | Here's this   |
 
-|  Condition  |  Behavior   | Brain Region   |Frequency Band | Mean Amplitude |Duration Count |
+|  Condition  |  Behavior   | Brain Region   |Frequency Band | Mean Amplitude |SEM |
 | :---        | :----:      |    :----:      |     :----:    |    :----:     |         ---:  |
 |     Rat     | Grooming    | meA | 	Respiratory  | Here's this   | Here's this   |
 |     Rat     | Rearing     | meA           | Respiratory     | And more      | And more      |
