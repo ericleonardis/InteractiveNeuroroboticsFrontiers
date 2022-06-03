@@ -2,6 +2,7 @@
 
 
 | Behaviors   | Frequency Mean |Frequency SEM|
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| :---        |    :----:   |   :----: |          ---: |
+| Grooming     | Title       | Here's this   |
+| Rearing   | Text        | And more      |
+| Immobility     | Title       | Here's this   |
