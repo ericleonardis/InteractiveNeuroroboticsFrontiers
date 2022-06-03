@@ -1,8 +1,8 @@
 # InteractiveNeuroroboticsFrontiers
 
 |  Condition  | Frequency Mean |Frequency Mean | Duration Mean |Duration Count |
-|     Rat     | Frequency Mean |Frequency Mean | Duration Mean |Duration Count |
 | :---        |    :----:      |     :----:    |    :----:     |         ---:  |
+|     Rat     | Frequency Mean |Frequency Mean | Duration Mean |Duration Count |
 | Grooming    | Title          | Here's this   | Here's this   | Here's this   |
 | Rearing     | Text           | And more      | And more      | And more      |
 | Immobility  | Title          | Here's this   | Here's this   | Here's this   |
