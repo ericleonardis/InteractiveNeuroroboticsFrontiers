@@ -1,6 +1,6 @@
 # Data Summary of Interactive Neurorobotics Frontiers
 
-
+This is the frequency and duration results from the behavioral video coding data.
 
 |  Condition  |  Behavior   | Frequency Mean |Frequency Mean | Duration Mean |Duration Count |
 | :---        | :----:      |    :----:      |     :----:    |    :----:     |         ---:  |
@@ -17,11 +17,15 @@
 | Open Field  | Rearing     | Text           | And more      | And more      | And more      |
 | Open Field  | Immobility  | Title          | Here's this   | Here's this   | Here's this   |
 
+This is the results from the tracking data measuring inter-agent distance. 
+
 | Tracking   | Distance Mean | Distance SEM    | 
 | :---       |    :----:     |           ---:  |
 | Rat        | Title         | Here's this     |
 | Robot      | Text          | And more        |
 | Object     | Title         | Here's this     | 
+
+This is the results from the mean amplitude and standard error of power spectral densities for each brain region (olfactory bulb, hippocampus and amygdala) and each frequency band (respiratory, theta $\theta$, and beta $\beta$ ).
 
 |  Condition  |  Behavior   | Brain Region   |Frequency Band | Mean Amplitude |Duration Count |
 | :---        | :----:      |    :----:      |     :----:    |    :----:     |         ---:  |
