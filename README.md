@@ -6,15 +6,15 @@ This is the frequency and duration results from the behavioral video coding data
 | :---        | :----:      |    :----:      |     :----:    |    :----:     |         ---:  |
 |     Rat-Rat     | Grooming    | 1.74          | Here's this   | 6.15   | Here's this   |
 |     Rat-Rat     | Rearing     | 1.55           | And more      | 2.33      | And more      |
-|     Rat-Rat     | Immobility  | 1.13          | Here's this   | 1.95   | Here's this   |
+|     Rat-Rat     | Immobility  | 1.31          | .31   | 1.95   | Here's this   |
 |    Rat-Robot    | Grooming    | 1.16          | Here's this   | 9.93   | Here's this   |
 |    Rat-Robot    | Rearing     | 1.87           | And more      | 3.10     | And more      |
-|    Rat-Robot    | Immobility  | 2.70          | Here's this   | 2.23   | Here's this   |
+|    Rat-Robot    | Immobility  | 2.70          | .37   | 2.23   | Here's this   |
 |   Rat-Object    | Grooming    | 2.29          | Here's this   | 5.84   | Here's this   |
 |   Rat-Object    | Rearing     | 2.59           | And more      | 2.17      | And more      |
 |   Rat-Object    | Immobility  | 3.37          | Here's this   | 2.07   | Here's this   |
 | Open Field  | Grooming    | 1.92          | Here's this   | 7.03   | Here's this   |
-| Open Field  | Rearing     | 5.59           | And more      | 3.98     | And more      |
+| Open Field  | Rearing     | 5.59           | And more      | 3.98     | .3     |
 | Open Field  | Immobility  | 1.78          | Here's this   | 4.98   | Here's this   |
 
 This is the results from the tracking data measuring inter-agent distance (in pixels). 
