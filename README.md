@@ -38,15 +38,15 @@ This is the results from the mean amplitude and standard error of power spectral
 |   Rat-Object    | Grooming    | MOB          | Respiratory    | Here's this   | Here's this   |
 |   Rat-Object    | Rearing     | MOB           | Respiratory       | And more      | And more      |
 |   Rat-Object    | Immobility  | MOB         | Respiratory    | Here's this   | Here's this   |
-|     Rat-Rat     | Grooming    | MOB          | 	$\theta$  | Here's this   | Here's this   |
+|     Rat-Rat     | Grooming    | MOB          | 	$\theta$  |  .013  |  .001  |
 |     Rat-Rat     | Rearing     | MOB            |  $\theta$     | And more      | And more      |
-|     Rat-Rat     | Immobility  | MOB            |  $\theta$     | Here's this   | Here's this   |
-|    Rat-Robot    | Grooming    | MOB          |  $\theta$     | Here's this   | Here's this   |
+|     Rat-Rat     | Immobility  | MOB            |  $\theta$     | .026   | .006   |
+|    Rat-Robot    | Grooming    | MOB          |  $\theta$     |  .010  |  .002  |
 |    Rat-Robot    | Rearing     | MOB            | $\theta$      | And more      | And more      |
-|    Rat-Robot    | Immobility  | MOB           | $\theta$   | Here's this   | Here's this   |
-|   Rat-Object    | Grooming    | MOB        | $\theta$   | Here's this   | Here's this   |
+|    Rat-Robot    | Immobility  | MOB           | $\theta$   | .020   | .002   |
+|   Rat-Object    | Grooming    | MOB        | $\theta$   |  .011  |  .001  |
 |   Rat-Object    | Rearing     | MOB           | $\theta$      | And more      | And more      |
-|   Rat-Object    | Immobility  | MOB          | $\theta$   | Here's this   | Here's this   |
+|   Rat-Object    | Immobility  | MOB          | $\theta$   |  .022  |  .002  |
 |     Rat-Rat     | Grooming    | MOB           | 	$\beta$  | Here's this   | Here's this   |
 |     Rat-Rat     | Rearing     | MOB            |  $\beta$     | And more      | And more      |
 |     Rat-Rat     | Immobility  | MOB           |  $\beta$     | Here's this   | Here's this   |
