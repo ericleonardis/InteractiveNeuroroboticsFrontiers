@@ -89,15 +89,15 @@ This is the results from the mean amplitude and standard error of power spectral
 
 |  Condition  |  Behavior   | Brain Region   |Frequency Band | Mean Amplitude |SEM |
 | :---        | :----:      |    :----:      |     :----:    |    :----:     |         ---:  |
-|     Rat-Rat     | Grooming    | meA | 	Respiratory  | Here's this   | Here's this   |
+|     Rat-Rat     | Grooming    | meA         | 	Respiratory  |  .0037  |  .0004  |
 |     Rat-Rat     | Rearing     | meA           | Respiratory     | And more      | And more      |
-|     Rat-Rat     | Immobility  | meA          | Respiratory     | Here's this   | Here's this   |
-|    Rat-Robot    | Grooming    | meA          |  Respiratory     | Here's this   | Here's this   |
+|     Rat-Rat     | Immobility  | meA          | Respiratory     | .0022   | .0003  |
+|    Rat-Robot    | Grooming    | meA          |  Respiratory     |  .0039  |  .0004  |
 |    Rat-Robot    | Rearing     | meA           | Respiratory       | And more      | And more      |
-|    Rat-Robot    | Immobility  | meA          | Respiratory    | Here's this   | Here's this   |
-|   Rat-Object    | Grooming    | meA          | Respiratory    | Here's this   | Here's this   |
+|    Rat-Robot    | Immobility  | meA          | Respiratory    |  .0032  |  .0001  |
+|   Rat-Object    | Grooming    | meA          | Respiratory    |  .0039  |  .0007 |
 |   Rat-Object    | Rearing     | meA           | Respiratory       | And more      | And more      |
-|   Rat-Object    | Immobility  | meA         | Respiratory    | Here's this   | Here's this   |
+|   Rat-Object    | Immobility  | meA         | Respiratory    |  .0018  |  .0002  |
 |     Rat-Rat     | Grooming    | meA          | 	$\theta$  | Here's this   | Here's this   |
 |     Rat-Rat     | Rearing     | meA            |  $\theta$     |   .0015   |   .0001   |
 |     Rat-Rat     | Immobility  | meA            |  $\theta$     | Here's this   | Here's this   |
