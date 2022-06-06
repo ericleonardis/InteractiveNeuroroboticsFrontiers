@@ -99,13 +99,13 @@ This is the results from the mean amplitude and standard error of power spectral
 |   Rat-Object    | Rearing     | meA           | Respiratory       | And more      | And more      |
 |   Rat-Object    | Immobility  | meA         | Respiratory    | Here's this   | Here's this   |
 |     Rat-Rat     | Grooming    | meA          | 	$\theta$  | Here's this   | Here's this   |
-|     Rat-Rat     | Rearing     | meA            |  $\theta$     | And more      | And more      |
+|     Rat-Rat     | Rearing     | meA            |  $\theta$     |   .0015   |   .0001   |
 |     Rat-Rat     | Immobility  | meA            |  $\theta$     | Here's this   | Here's this   |
 |    Rat-Robot    | Grooming    | meA          |  $\theta$     | Here's this   | Here's this   |
-|    Rat-Robot    | Rearing     | meA            | $\theta$      | And more      | And more      |
+|    Rat-Robot    | Rearing     | meA            | $\theta$      |    .0013   |   .0001   |
 |    Rat-Robot    | Immobility  | meA           | $\theta$   | Here's this   | Here's this   |
 |   Rat-Object    | Grooming    | meA        | $\theta$   | Here's this   | Here's this   |
-|   Rat-Object    | Rearing     | meA           | $\theta$      | And more      | And more      |
+|   Rat-Object    | Rearing     | meA           | $\theta$      |   -7.2e-5    |   .0001   |
 |   Rat-Object    | Immobility  | meA          | $\theta$   | Here's this   | Here's this   |
 |     Rat-Rat     | Grooming    | meA           | 	$\beta$  | Here's this   | Here's this   |
 |     Rat-Rat     | Rearing     | meA            |  $\beta$     | And more      | And more      |
