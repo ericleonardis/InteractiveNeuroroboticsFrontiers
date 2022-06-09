@@ -38,7 +38,6 @@ This is the results from the mean amplitude and standard error of power spectral
 
 |  Condition  |  Behavior   | Brain Region   |Frequency Band | Mean Amplitude | SEM |
 | :---        | :----:      |    :----:      |     :----:    |    :----:     |         ---:  |
-
 |     Rat-Rat     | Grooming    | CA1/CA2          | 	$\theta$  | .0055   |  .0005   |
 |    Rat-Robot    | Grooming    | CA1/CA2          |  $\theta$     |  .0045  |  .0007  |
 |   Rat-Object    | Grooming    | CA1/CA2        | $\theta$   | .40   | .0007   |
