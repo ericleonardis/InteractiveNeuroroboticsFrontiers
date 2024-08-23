@@ -2,7 +2,7 @@
 
 The following is a public data summary of the results presented in:
 
-Leonardis, E.J., Breston, L., Lucero-Moore, R., Sena, L., Kohli, R., Schuster, L., Barton-Gluzman, L., Quinn, L.K., Wiles, J., & Chiba, A.A. (Under Review) Interactive Neurorobotics: Behavioral and Neural Dynamics of Agent Interactions. Frontiers in Psychology Special Issue on Robots and Bionic Systems as Tools to Study Cognition: Theories, Paradigms, and Methodological Issues.
+Leonardis, E.J., Breston, L., Lucero-Moore, R., Sena, L., Kohli, R., Schuster, L., Barton-Gluzman, L., Quinn, L.K., Wiles, J., & Chiba, A.A. (2022) Interactive Neurorobotics: Behavioral and Neural Dynamics of Agent Interactions. Frontiers in Psychology Special Issue on Robots and Bionic Systems as Tools to Study Cognition: Theories, Paradigms, and Methodological Issues.
 
 This is the frequency and duration results from the behavioral video coding data (in seconds).
 
